@@ -9,6 +9,10 @@ static void mode()
     
 }
 static void mode2(){
-    
+
 }
+static void  mode3(){
+
+}
+
 }

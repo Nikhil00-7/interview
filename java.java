@@ -8,4 +8,7 @@ static void mode()
 {
     
 }
+static void mode2(){
+    
+}
 }
